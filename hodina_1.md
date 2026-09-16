@@ -1,8 +1,9 @@
 # zajimave weby pro predmet os
-https://www.root.cz \n
-https://www.abclinuxu.cz \n
-https://www.tomhardware.com \n
-https://debian.org \n
-https://ubuntu.com \n
-https://fedoraproject.org \n
-https://redhead.com \n
+https://www.root.cz
+https://www.abclinuxu.cz
+https://www.tomhardware.com
+https://debian.org
+https://ubuntu.com
+https://fedoraproject.org
+https://redhead.com
+https://endeavours.com
