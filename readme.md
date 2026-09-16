@@ -1,0 +1,1 @@
+# moje externi pamet
