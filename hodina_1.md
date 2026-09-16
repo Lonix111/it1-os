@@ -8,5 +8,5 @@
 - https://redhead.com
 - https://endeavours.com
 ## ToDo
-- [] musim si dopsat vsechny weby
-- [X] splnen ukol cislo 1
+- [ ] musim si dopsat vsechny weby
+- [X] ~~splnen ukol cislo 1~~
