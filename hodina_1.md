@@ -7,3 +7,6 @@
 - https://fedoraproject.org
 - https://redhead.com
 - https://endeavours.com
+## ToDo
+- [] musim si dopsat vsechny weby
+- [X] splnen ukol cislo 1
